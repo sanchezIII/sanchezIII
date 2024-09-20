@@ -1,8 +1,11 @@
-## Hi I'm Jose Luis Sanchez 👋
-- 🔭 I’m currently working on Medical Waste
-- 🌱 I’m currently learning Serverless Framework, AWS Lambda, and DynamoDB
-- 💬 Ask me about problem-solving and analytical skills
-- 📫 How to reach me: sancheztresiii@gmail.com
+<h1 align="center">Hi 👋, I'm 
+SanchezIII</h1>
+<h3 align="center">Backend Developer </h3>
+
+- 🔭 I’m currently working on <b>Medical Waste</b> </br>
+- 🌱 I’m currently learning <b>Serverless Framework, AWS Lambda, and DynamoDB</b> </br>
+- 💬 Ask me about <b>problem-solving and analytical skills</b> </br>
+- 📫 How to reach me: sancheztresiii@gmail.com </br>
 
 <!--
 **sanchezIII/sanchezIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
